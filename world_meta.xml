@@ -2,17 +2,17 @@
 <WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="f8b3f59e-a36e-44cc-927a-eca24258dddf">
   <Game>Assembly-CSharp</Game>
   <GameVersion>0.2.4902.22241</GameVersion>
-  <DateTime>133571758930586815</DateTime>
-  <DaysPast>249</DaysPast>
+  <DateTime>133572861088171117</DateTime>
+  <DaysPast>265</DaysPast>
   <WorldName>VenusSerialtasted</WorldName>
   <IsOnAwayMission>false</IsOnAwayMission>
   <WorldTravelCount>0</WorldTravelCount>
   <WorldFileName>VenusGPTJ</WorldFileName>
   <WorkShopFileHandle>0</WorkShopFileHandle>
   <NumberOfRooms>29</NumberOfRooms>
-  <NumberOfPipeNetworks>79</NumberOfPipeNetworks>
+  <NumberOfPipeNetworks>80</NumberOfPipeNetworks>
   <NumberOfCableNetworks>36</NumberOfCableNetworks>
-  <NumberOfThings>5202</NumberOfThings>
-  <NumberOfAtmospheres>2213</NumberOfAtmospheres>
+  <NumberOfThings>5384</NumberOfThings>
+  <NumberOfAtmospheres>2286</NumberOfAtmospheres>
   <NumberOfAsteriods>0</NumberOfAsteriods>
 </WorldMetaData>
