@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="f8b3f59e-a36e-44cc-927a-eca24258dddf">
+  <Game>Assembly-CSharp</Game>
+  <GameVersion>0.2.4892.22208</GameVersion>
+  <DateTime>133561908958348930</DateTime>
+  <DaysPast>79</DaysPast>
+  <WorldName>VenusSerialtasted</WorldName>
+  <IsOnAwayMission>false</IsOnAwayMission>
+  <WorldTravelCount>0</WorldTravelCount>
+  <WorldFileName>Venus_GPT</WorldFileName>
+  <WorkShopFileHandle>0</WorkShopFileHandle>
+  <NumberOfRooms>9</NumberOfRooms>
+  <NumberOfPipeNetworks>34</NumberOfPipeNetworks>
+  <NumberOfCableNetworks>11</NumberOfCableNetworks>
+  <NumberOfThings>2084</NumberOfThings>
+  <NumberOfAtmospheres>843</NumberOfAtmospheres>
+  <NumberOfAsteriods>0</NumberOfAsteriods>
+</WorldMetaData>
