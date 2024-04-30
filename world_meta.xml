@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="f8b3f59e-a36e-44cc-927a-eca24258dddf">
   <Game>Assembly-CSharp</Game>
-  <GameVersion>0.2.4936.22393</GameVersion>
-  <DateTime>133587052967801554</DateTime>
-  <DaysPast>413</DaysPast>
+  <GameVersion>0.2.4945.22425</GameVersion>
+  <DateTime>133589890007275286</DateTime>
+  <DaysPast>415</DaysPast>
   <WorldName>VenusSerialtasted</WorldName>
   <IsOnAwayMission>false</IsOnAwayMission>
   <WorldTravelCount>0</WorldTravelCount>
@@ -12,7 +12,7 @@
   <NumberOfRooms>54</NumberOfRooms>
   <NumberOfPipeNetworks>105</NumberOfPipeNetworks>
   <NumberOfCableNetworks>43</NumberOfCableNetworks>
-  <NumberOfThings>8967</NumberOfThings>
-  <NumberOfAtmospheres>3863</NumberOfAtmospheres>
+  <NumberOfThings>8982</NumberOfThings>
+  <NumberOfAtmospheres>3857</NumberOfAtmospheres>
   <NumberOfAsteriods>0</NumberOfAsteriods>
 </WorldMetaData>
